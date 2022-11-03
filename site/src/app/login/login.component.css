@@ -1,0 +1,7 @@
+::ng-deep .mat-tab-label {
+    font-size:20px ;
+}
+
+mat-tab-group {
+    text-align: center;
+}
